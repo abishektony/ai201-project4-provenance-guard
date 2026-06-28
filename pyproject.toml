@@ -1,0 +1,12 @@
+[project]
+name = "ai201-project4-provenance-guard"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.0.0",
+    "flask-limiter>=3.5.0",
+    "groq==0.15.0",
+    "python-dotenv==1.0.1",
+]
