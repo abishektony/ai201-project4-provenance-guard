@@ -8,7 +8,7 @@ human review.
 A **3-signal ensemble** feeds a single calibrated confidence score, which maps to one of
 three verdicts: `likely_human`, `uncertain`, or `likely_ai`.
 
-> **Walkthrough video:** _(paste your link here once recorded)_
+> **Walkthrough video:** [video link ](https://1drv.ms/v/c/fffc94b08fe514b6/IQCcZZCWEEz5RbqsZooTNvy1AfC2o2-HH5qKRvzhOwzuCLY?e=hpX1Tr)
 
 ## Architecture Overview
 
